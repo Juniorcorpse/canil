@@ -1,3 +1,3 @@
 # canil
 
-Projeto em node e typecripit
+Projeto em node e typecript
