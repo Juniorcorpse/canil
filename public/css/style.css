@@ -83,8 +83,16 @@ h2 {
     text-align: center;
 }
 
+
 .no-list {
     margin-bottom: 50px;
+}
+.no-list  h1{
+    color: var(--main); 
+    font-weight: bold;
+    font-size: 80px;
+    text-align: center;
+    margin-bottom: 5px;
 }
 .list {
     display: grid;
